@@ -1,0 +1,21 @@
+font-family: 'Ubuntu', sans-serif
+
+
+.intro {
+	text-align: center;
+}
+
+
+p.intro {
+	text-align: center;
+}
+
+
+body {
+	background-color: rgb(120,114,112);
+}
+
+p {
+	color: white;
+	font-family: Ubuntu;
+}
